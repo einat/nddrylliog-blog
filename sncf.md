@@ -1,6 +1,6 @@
     title: The sad truth about French trains
     date: 2011-07-19
-    tags: rant
+    tags: rant, lifestyle, france, switzerland
 
 ### The French culture is killing us
 
@@ -15,7 +15,7 @@ but I believe there is another explanation for the systematic departure of
 great figures to other, greener-grass countries.
 
 There is, of course, fiscality. France is not a good country to be rich in,
-except if you're into politics of course, in which case you only need excellent
+except if you're into politics, in which case you only need excellent
 lawyers. Ex-President Jacques Chirac was famously caught after his presidency for
 several shady transactions, but his many friends and love of African art pieces
 apparently let him get away unscarred. And that's only one of the numerous cases

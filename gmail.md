@@ -1,6 +1,6 @@
     title: Why I still use Gmail
     date: 2011-05-12
-    tags: short
+    tags: interview, short
 
 ### But it's proprietary!
 
