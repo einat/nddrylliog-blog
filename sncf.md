@@ -1,4 +1,7 @@
-$index / $blog / The sad truth about French trains
+title: The sad truth about French trains
+date: 2011-07-19
+tags: rant
+--
 
 ### The French culture is killing us
 

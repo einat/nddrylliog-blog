@@ -1,0 +1,33 @@
+title: Why I still use Gmail
+date: 2011-05-12
+tags: short
+--
+
+### But it's proprietary!
+
+Well yeah. But it's really convenient. It's really fast (for me), it has filters
+and tags, and all the other alternatives I've tried, like roundcube, don't even
+come close.
+
+I don't feel like using Gmail is restricting my freedom. I can redirect mail to Gmail,
+from Gmail to the outside world, forward, receive, and respond to anything. Besides,
+the Android app is way better than stock e-mail.
+
+Besides, we use it $ofm[at work]. It just feels like the best tool for the job
+
+### Why  not write a client yourself?
+
+Well I'd love to, if I ever find the time. Unfortunately, pretty much everything
+about e-mail sucks, similary to how pretty much everything about
+$blog/BitTorrent[BitTorrent] rocks.
+
+I'm not a fan of POP3, and IMAP looks complicated - in any case you have to store
+everything on your own server because it's way too slow - but that's not all, you
+also have to cache it client-side, which requires a whole framework just to get right.
+
+In my opinion, Google nailed it and it would take more than a week-end to build
+something up to the task.
+
+### If you do write one, let me know!
+
+Will do! Drop me a line at [amos@official.fm](mailto:amos@official.fm) if you're interested.
