@@ -114,6 +114,3 @@ When I finish my CS studies in Switzerland, I'm not sure I'll return to France, 
 the trains. Thanks to the CFF, I can take the train several times per day, for work, leisure,
 sometimes both, whether I'm sleepy, drunk, or writing blogs posts, often without even checking
 timetables (trains are so frequent it's useless), and never having to bother about reservations.
-
-
-*(Last update: $$date)*
