@@ -48,5 +48,7 @@ That's the reason a few very prolific programmers are so impossible to manage! S
 
 For those of us who can still go back and forth, we all have different ways of travelling back to normal life. Sometimes we use violent video games, because it allows us to expulse all that pressure on virtual characters and challenges without hurting anyone, with added fun.
 
-It is a terrible, terrible mistake to cut short the travel of someone coming back from the pressure dimension. While not as lethal as dragging up someone from the ocean's abyss too fast, you take the risk of getting burned heavily because you now have to face a person in-between two dimensions. How many silly disputes could be avoided by simply understanding the basic effects of pressure?
+It is a terrible, terrible mistake to cut short the travel of someone coming back from the pressure dimension. While not as lethal as dragging up someone from the ocean's abyss too fast, you take the risk of getting burned heavily because you now have to face a person in-between two dimensions.
+
+So, dear friends, dear family, when I paint the walls red with tiny fractions of zombie brains, it does not mean that I am a violent freak. It is a necessary journey to travel back from my universe and be able to enjoy a bite of life as a normal person, with you.
 
