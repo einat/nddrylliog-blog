@@ -1,0 +1,117 @@
+$index / $blog / The sad truth about French trains
+
+### The French culture is killing us
+
+As a Frenchman, I am really proud of my country. Among the mass of peons,
+France gave birth to some of the brightest minds of this century. Designers,
+musicians, engineers, writers, actors who quickly gained international
+recognition for their talent.
+
+However, these fine folks often expatriate themselves instead of staying
+in their own country. The 'brain drain' is a well-studied subject by historians,
+but I believe there is another explanation for the systematic departure of
+great figures to other, greener-grass countries.
+
+There is, of course, fiscality. France is not a good country to be rich in,
+except if you're into politics of course, in which case you only need excellent
+lawyers. Ex-President Jacques Chirac was famously caught after his presidency for
+several shady transactions, but his many friends and love of African art pieces
+apparently let him get away unscarred. And that's only one of the numerous cases
+that we see passing every month.
+
+Another reason for the exile might be a near-permanent state of strike. Try to
+build a business when you can't get people in or out the country because airport
+or train workers suddenly decided to stop working. Try to maintain a consistent
+school education when sometimes teachers stop working for weeks at a time. Try
+to maintain good client relations when the post office sometimes retain letters
+for more than a month!
+
+Ultimately, it all boils down to culture. The French culture is all about strict
+laws that nobody respects but still pretends to. It's about forcing people to work
+illegally if they want to survive as entrepreneurs, because playing by the rules
+sometimes means giving the governement a 60% cut in your first year. It's about
+cheating at exams, because without a piece of paper nobody will hire you. It's
+about hot steam and empty promises, because according to the studies of TV Shows
+producers, it's what the people ask for.
+
+For non-French citizens, it might be hard to realize how such a country can exist
+and, more surprisingly, subsist. I've lived 17 years there, then moved on to Switzerland,
+and still can only wonder how the edifice hasn't tumbled down just yet. One thing
+that is strikingly archetypal of the whole French system are trains.
+
+### Divide and laughter
+
+A good summary of French trains goes like this: the SNCF's core business is TGVs (Trains
+à Grande Vitesse). Those high-speed trains have benefited from almost every technological
+advance there has ever been in the industry. France has won several times the speed record,
+beating Japan and other asian countries in the course. However, if you're not taking
+a TGV, the SNCF hates your guts.
+
+Recently, a friend of mine was trying to figure out whether he could take his bike
+with him on the train. Unfortunately all train are not born equal. When you go take
+a plane, what do you take? A plane. When you take a French train, you can take either
+a TER, TGV, iDTGV, RER, Corail, Téoz, Lunéa, Eurostar, Thalys, Elipsos, Lyria, Artesia, etc.
+
+But wait, that's not all! There are 13 models of TGVs, all with different rules as to
+whether bikes are authorized or not. Some authorize it, except during peak hours. Some, if
+your folded bike is smaller than given dimensions. For some, you have to make a mandatory
+reservation for your bike. For some, it's simply forbidden.
+
+That's only for the portion of French trains that the SNCF manages. TER trains are managed
+by each region individually, with budgets ranging from 57 million EUR (Poitou-Charentes)
+to 465 million EUR (Rhônes-Alpes, where I grew up). No region handles TERs the same way.
+Even tickets are different. To add to the delirium, not even all TGVs are handled by the
+SNCF. Only 4-digits SNCF are handled by the SNCF, other 5-digits and 6-digits ones are
+handled by the regions.
+
+### A ticket to hell
+
+The ticketing system for French trains is pure insanity. At this point, pretty much
+the whole population has given up the hope to be able to compute SNCF fares itself. It's not
+based on distance, time, or any measurable quantity. Although the company is frequently
+found to violate the law regarding pricing (e.g. no free phone number for tariff information),
+its only visible effort has been a 100-page leaflet containing obscure pricing tables that did
+nothing but confuse people further.
+
+The online reservation system is a counter-example of design in itself. A protest group has
+been formed for the sole purpose of obtaining a reasonably good online ordering system. It
+took a court order to make pricing appear clearly on the website. There are at least ten different
+fidelity programs, dozens of tariffs for children, teenagers, elders, students, professionals,
+convention-goers, big families, annual vacationers, and more... The website is so bad, people
+sometimes go to the Swiss or German rails websites just to know the timetables for French trains.
+
+Even tickets themselves are a model of inefficiency: around Rhône-Alpes, there are usually
+two different format of tickets: IATA tickets, huge, with travel hours printed on them (even
+if your ticket might be valid for the whole day - or for three months), and small tickets
+that conform to some obscure ISO standard. IATA tickets have a magnetic stripe that seems
+perfectly useless (I've never seen anyone or anything read them), and ISO tickets are a pain
+to punch because you have to align them properly in the machine.
+
+Talking about punching tickets - even though you usually purchase tickets only valid for a
+single travel on a specific time slice, you still have to punch them. Otherwise, you'll get
+a fine, except if you show it to the controller on his first pass in the train. Of course,
+there are not always controlers, making "let's not punch the ticket and see what happens"
+ a national sport, for the times your ticket might be valid on other travels.
+
+No two French stations look the same. In a typical one, there are at least three different
+ticket machines - more if you happen to be near a border with Switzerland, Germany or Belgium.
+One for regional ticket (all sorts of TERs), one for regular TGVs, one for professional TGVs.
+Some trains require you to sit at the exact spot you have reserved (at least a few days
+in advance), and don't allow ticket cancellations.
+
+### How it should be
+
+Compare this with Swiss trains: all train stations are exactly alike, with unified regulations,
+signs, a single tariff for short-distance or long-distance trains, only a few different
+subscriptions that make sense (and very reasonable for -26yo folks). Taking a train in Switzerland
+is no different from taking a bus - as a matter of fact, when you buy a general subscription
+(which means you can take every train ever in Switzerland anytime for a whole year), you also
+get to travel on almost all local bus networks.
+
+When I finish my CS studies in Switzerland, I'm not sure I'll return to France, if only for
+the trains. Thanks to the CFF, I can take the train several times per day, for work, leisure,
+sometimes both, whether I'm sleepy, drunk, or writing blogs posts, often without even checking
+timetables (trains are so frequent it's useless), and never having to bother about reservations.
+
+
+*(Last update: $$date)*
