@@ -1,7 +1,6 @@
-title: Why BitTorrent rocks
-date: 2011-05-12
-tags: short
---
+    title: Why BitTorrent rocks
+    date: 2011-05-12
+    tags: short
 
 ### So, what's so great about BitTorrent?
 

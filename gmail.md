@@ -1,7 +1,6 @@
-title: Why I still use Gmail
-date: 2011-05-12
-tags: short
---
+    title: Why I still use Gmail
+    date: 2011-05-12
+    tags: short
 
 ### But it's proprietary!
 
