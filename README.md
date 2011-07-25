@@ -1,3 +1,1 @@
-Those are words I type.
-
-Want to [https://github.com/nddrylliog/feedback/issues](talk about them)?
+Those are words I type, now featuring [your reactions to them](https://github.com/nddrylliog/feedback/issues)!
