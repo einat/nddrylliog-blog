@@ -47,7 +47,10 @@ As Dogbert says:
      "Wally, your problem is that you don't have enough knowledge. But it doesn't need to be
      real! Just say the *worst* about people and you'll usually be right!"
 
-Sounds like someone took this advice a bit to seriously.
+Sounds like someone took this advice a bit too seriously.
+
+I mean, Vya, c'mon, you've apparenty worked at Excelsior and now Google, which is a pretty good
+curriculum if you ask me - why such a primitive rebuttal?
 
 Now let's take this blog post somewhere constructive.
 
