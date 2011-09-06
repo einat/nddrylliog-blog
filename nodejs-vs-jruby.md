@@ -75,7 +75,7 @@ And OH WAIT, remember not-to-be-taken-seriously Zohaib's post?
 	in some RDBMS or NoSQL store I would rather think twice."
 
 Even he, gets it! So apparently even people writing on blogs, using 'n00bs', and choosing scandalous
-headlines such as 'Node on nails' now a damn thing about technology. Interesting.
+headlines such as 'Node on nails' know a damn thing about technology. Interesting.
 
 Just because Node.js has made the interesting bet to base *all* their libraries on an asynchronous paradigm
 (resulting in horrible code by people who use that particular hammer for every nail) doesn't mean one couldn't
