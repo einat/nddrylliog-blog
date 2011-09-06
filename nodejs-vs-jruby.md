@@ -10,9 +10,9 @@ http://maxpert.tumblr.com/post/9677133069/node-on-nails
 
 Facts:
 
-    * In his very first tweet, Charles stated clearly that it was a 'simple experiment' 
-    * It's not Charles' benchmark - as he repeated clearly and repeatedly afterwards.
-    * Did you really take seriously a guy using 'n00bs' and writing on a blog? n00bs.
+  * In his very first tweet, Charles stated clearly that it was a 'simple experiment' 
+  * It's not Charles' benchmark - as he repeated clearly and repeatedly afterwards.
+  * Did you really take seriously a guy using 'n00bs' and writing on a blog? n00bs.
 
 I retweeted Charles, and all in all it all got quite a few retweets, getting ourselves
 noticed by... the Node.js benchmarking police.
