@@ -42,8 +42,8 @@ I recently wrote a whole freaking MP3 decoder purely in JavaScript to prove a po
 
 As Dogbert says:
 
-       "Wally, your problem is that you don't have enough knowledge. But it doesn't need to be
-       real! Just say the *worst* about people and you'll usually be right!"
+     "Wally, your problem is that you don't have enough knowledge. But it doesn't need to be
+     real! Just say the *worst* about people and you'll usually be right!"
 
 Sounds like someone took this advice a bit to seriously.
 
