@@ -79,13 +79,58 @@ The problem today is that everyone a kid farts "X is fast, Y is dead", everyone 
 some of us retweet an article because we found an interesting - yet simplistic - experiment doesn't mean
 we endorse it. Cut it out already.
 
+### Nobody cares about your technology
 
+I mean, seriously. Nobody. Fanboy-me included.
 
+What matters is your ability to turn whatever tech you're the most comfortable in, into something great.
+It might be a tool that thousands of people will use in their day-to-day workflow (for Christ's sake,
+most of emacs is hacked together with Lisp!), or it might be a product that will turn your startup into
+a multi-billion company.
 
+Steve Dekorte, a good friend of mine and author of the io language (then ripped off by Ola Bini, who has
+this interesting Seph experiment going on also), once tweeted something along the lines of:
 
+    If you could choose 'n', where 'your language is n times as slow' and 'you are n times as productive
+    with this language' were both true, which value of n would you choose?
 
+(Except his was less poorly worded, because I suck at writing)
 
+And, well, in this web-obsessed realtime/social fast-moving world, I think I'd choose a really high 'n' if
+it allowed me to write stuff like:
 
+    exports.http = magic("Yet another HTTP server, but this time event-oriented")
 
+I mean, nothing's impossible right? It could pull out the RFC, analyze the human language contained in them,
+make sense of the gazillions of special cases that specifications contain, and allow events for just about
+anything that could happen in an HTTP exchange.
 
+Sounds like rocket science to you? Maybe it is - but if it's not, your grandkids will laugh at you because
+you're still, like, handling sockets manually instead of using something robust and higher-level like 
+[ØMQ](http://www.zeromq.org/).
 
+### Stop the trash talk, resume the shame walk
+
+Don't fucking insult people's intelligence over the internets. You Just Don't Do It (TM). n00bs.
+
+The world is huge, and it has existed for a long time. Heck, less retarded people than me have said that we
+haven't invented anything in CS since the 70s, and that so far, we've just been repeating the same dumb stuff.
+
+And that's true, right? Everybody keeps re-implementing the same basic fucking ideas in their languages.
+Everybody suddenly rediscovers async (Hi node.js community!), and then everybody suddenly discovers that hey,
+making it scale across cores, processors, and nodes is a tad harder than it looked like.
+
+And then Rob freaking Pike comes to save the day with Google Go (hey it has Google in the name so it must be
+good right! Like, you know, Buzz, Wave, all that stuff), presenting a naive implementation of a 1970s paper
+(CSP, look it up n00bs) attached with a horrible syntax and an oh-my-god-that's-fast compiler, and the world
+is "Hurray!" because most of you can't see past their own shit.
+
+Is Mr. Pike wrong in doing so? Must he be laughed at during language design events - the only time where self-proclaimed
+language designers grow a pair of balls and abandon their ivory tower to come down and attempt to talk 20 minutes in public?
+FUCK NO. He's got it right - a pragmatic approach that solves real problems, rooted in old research (which is
+still good!), and a syntax he likes, with a fucking great toolchain, and he uses it internally for projects.
+It's win, win, and triple-win.
+
+So stop losing time writing and reading stupid blog posts and get back to work. Make sure you're using tools
+you love, because if you're doing serious shit with them, you'll need more than superficial feelings to get
+through the rough moments of your relationship.
