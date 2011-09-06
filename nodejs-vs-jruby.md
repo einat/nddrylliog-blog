@@ -9,6 +9,7 @@ On September 4, @headius, aka Charles Nutter, tweeted this benchmark about Node.
 http://maxpert.tumblr.com/post/9677133069/node-on-nails
 
 Facts:
+
     * In his very first tweet, Charles stated clearly that it was a 'simple experiment' 
     * It's not Charles' benchmark - as he repeated clearly and repeatedly afterwards.
     * Did you really take seriously a guy using 'n00bs' and writing on a blog? n00bs.
@@ -23,8 +24,8 @@ And then we got personal tweets about our apparent cluelessness for linking to a
 Listen, I'm usually the one to go balls out and piss on everyone's work until I was born,
 but this was just too funny:
 
-  @mraleph: @trygve_lie @nddrylliog @maboa or at least when you benchmark try to
-  run equivalent apps. that means you have to understand both langs well
+	@mraleph: @trygve_lie @nddrylliog @maboa or at least when you benchmark try to
+	run equivalent apps. that means you have to understand both langs well
 
 Yes, surely Charles does not understand the subtle differences between Ruby, Java and JavaScript.
 
@@ -41,8 +42,8 @@ I recently wrote a whole freaking MP3 decoder purely in JavaScript to prove a po
 
 As Dogbert says:
 
-   "Wally, your problem is that you don't have enough knowledge. But it doesn't need to be
-   real! Just say the *worst* about people and you'll usually be right!"
+       "Wally, your problem is that you don't have enough knowledge. But it doesn't need to be
+       real! Just say the *worst* about people and you'll usually be right!"
 
 Sounds like someone took this advice a bit to seriously.
 
@@ -62,11 +63,11 @@ adapted", then, THEN we'd be talking.
 
 And OH WAIT, remember not-to-be-taken-seriously Zohaib's post?
 
-    "Not every web application is many connections application, you don’t code a chat system
-    or a comet system everyday. NodeJS is good at few things and should be used for them. If
-    you ask me to code a websocket based chat system using a IRC server, I would vote for
-    NodeJS; but if you ask me to pull emails from all your email accounts and store them
-    in some RDBMS or NoSQL store I would rather think twice."
+	"Not every web application is many connections application, you don’t code a chat system
+	or a comet system everyday. NodeJS is good at few things and should be used for them. If
+	you ask me to code a websocket based chat system using a IRC server, I would vote for
+	NodeJS; but if you ask me to pull emails from all your email accounts and store them
+	in some RDBMS or NoSQL store I would rather think twice."
 
 Even he, gets it! So apparently even people writing on blogs, using 'n00bs', and choosing scandalous
 headlines such as 'Node on nails' now a damn thing about technology. Interesting.
@@ -91,15 +92,15 @@ a multi-billion company.
 Steve Dekorte, a good friend of mine and author of the io language (then ripped off by Ola Bini, who has
 this interesting Seph experiment going on also), once tweeted something along the lines of:
 
-    If you could choose 'n', where 'your language is n times as slow' and 'you are n times as productive
-    with this language' were both true, which value of n would you choose?
+	If you could choose 'n', where 'your language is n times as slow' and 'you are n times as productive
+	with this language' were both true, which value of n would you choose?
 
 (Except his was less poorly worded, because I suck at writing)
 
 And, well, in this web-obsessed realtime/social fast-moving world, I think I'd choose a really high 'n' if
 it allowed me to write stuff like:
 
-    exports.http = magic("Yet another HTTP server, but this time event-oriented")
+	exports.http = magic("Yet another HTTP server, but this time event-oriented")
 
 I mean, nothing's impossible right? It could pull out the RFC, analyze the human language contained in them,
 make sense of the gazillions of special cases that specifications contain, and allow events for just about
