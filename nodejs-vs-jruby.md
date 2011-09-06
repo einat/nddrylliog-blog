@@ -23,7 +23,7 @@ And then we got personal tweets about our apparent cluelessness for linking to a
 
 ### A little respect
 
-Listen, I'm usually the one to go balls out and piss on everyone's work until I was born,
+Listen, I'm usually the one to go balls out and piss on everyone's work which is older than I am,
 but this was just too funny:
 
 	@mraleph: @trygve_lie @nddrylliog @maboa or at least when you benchmark try to
