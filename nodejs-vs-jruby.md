@@ -17,6 +17,8 @@ Facts:
 I retweeted Charles, and all in all it all got quite a few retweets, getting ourselves
 noticed by... the Node.js benchmarking police.
 
+https://plus.google.com/111090511249453178320/posts/hJSKm6ra9wY
+
 And then we got personal tweets about our apparent cluelessness for linking to an article.
 
 ### A little respect
