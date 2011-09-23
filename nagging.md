@@ -1,4 +1,4 @@
-    title: Hire people that bug you
+    title: Hire people who bug you
     date: 2011-09-23
     tags: rant, work, social
 
@@ -22,7 +22,7 @@ Fostering such success requires a lot of different skills - that you can most of
 a single CEO, even if he is zen-buddhist. So how do you cut it anyway? I am still too fresh to tell
 that it worked for me, but here is something I feel strongly about.
 
-### Hire people that bug you
+### Hire people who bug you
 
 You want people that praise you in your bedroom, and people that are not afraid to point out things
 in your office.
