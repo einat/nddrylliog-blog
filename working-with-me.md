@@ -41,7 +41,7 @@ Here is a list of things this does **not** entitle you to do:
   as an insult or affront might simply be an expression of surprise for some people.
   If you take the time to understand the meaning behind expressions us europeans,
   citizens of the world, internet-fed, redditors, githubbers, comic-readers C&H-humored
-  connected human beings.
+  connected human beings, you might just find your work a hell of a lot easier to do.
 
 ### If you are not above me
 
