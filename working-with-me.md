@@ -68,7 +68,7 @@ here is a little list of things to pay attention to:
   mini-reports. Sometimes meaningful git commit messages are enough, sometimes they are not.
 
   * **Be honest**. Do not take credit for the work of others. If you have done 20% of
-  task A, do not say you did task A. You do not need to conceive your real intentions.
+  task A, do not say you did task A. You do not need to conceal your real intentions.
   If this job is just a money cow to pay your bills, say so. If you wish you would
   have more time to spend on open-source projects, do not do it behind our collective
   backs: say so. If you only wish one thing and that is to grow out of this team
