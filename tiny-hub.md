@@ -1,0 +1,80 @@
+    title: Tiny alternative to hub
+    date: 2011-10-14
+    tags: tip, short
+
+### What is hub anyway?
+
+[hub](http://defunkt.io/hub/) teaches git about GitHub. Ie instead of doing stuff like
+
+    git clone git@github.com:nddrylliog/blog.git
+
+You can do stuff like
+
+    hub clone -p blog
+
+(If you are me - the `-p` is for private)
+
+Or stuff like
+
+    hub clone fredreichbier/deadlogger
+
+And that is not all! There is plenty of stuff hub can do for you. So go check it out, because
+it is quite simply awesomesauce. Of course we are not going to cover it all, just the clone part.
+
+### Wait. So you are advocating it?
+
+Well, kinda. As @defunkt mentions, everytime you run hub, you get hit by the Ruby VM startup
+time (which is not so bad once it is all in cache, but still). If you install it via rubygems,
+it gets even worse. And if you alias git to hub, then you no longer have a fast version around.
+
+Not that I care, though, because I have all the high-end hardware I can get! However, I constantly
+find myself running around from server to server, and not all of them have hub pre-installed.
+
+Sure, I could just turn around and yell at my sysadmin, but in the meantime here is this little
+thing to reduce the pain. But for that, we need to understand a bit more about the git-clone above.
+
+### Okay, so how does this git clone work?
+
+Well, you may know that there are several ways to access a git repo. One of them is by https://,
+another is the git:// protocol, and GitHub seems to be overly fond of the ssh variant.
+
+SSH is this wonderful things that allows you not only to securely open remote shells on servers,
+but also copy files from them (scp), mount whole remote folders (sshfs), and probably lots of
+other stuff but actually we are good with that.
+
+When copying files from an ssh server, we do stuff like
+
+    scp user@server:path/to/the/file local/path
+
+And when copying to it, we just reverse the arguments! It is a simple as that.
+
+So, when we are cloning a git repository by doing:
+
+    git clone git@github.com:nddrylliog/blog.git
+
+We are actually passing a remote ssh path, with user `git`, on server `github.com`, found
+at `nddrylliog/blog.git`. Wait - you might be thinking - does that mean everyone is actually
+the same user on GitHub? Well, when accessing repos by SSH on GitHub, you are identified by
+your SSH key, that you can upload in `User settings`. And that is all they need to know about you.
+
+Now ssh, as every power-user tool is configurable. There is little file in ~/.ssh/config
+that allows you to specify stuff like aliases, and primary users per server. And there
+comes our tiny everyday-life-improvement
+
+    Host g
+        HostName github.com
+        User git
+
+And ta-daa! We can now do this:
+
+    git clone g:nddrylliog/blog.git
+
+And it turns out the `.git` is not even necessary (do they have symlinks? a virtual fs that
+resolves that? I do not really want to know), so you can do:
+
+    git clone g:nddrylliog/blog
+
+And that my friend, just saved you 17 strokes per clone.
+
+I would like to thanks [@quinnirill](https://twitter.com/quinnirill) for actually giving
+me the idea to use `g` for `github.com`, and myself for taking the time to write an article on it.
