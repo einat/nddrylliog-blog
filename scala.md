@@ -1,0 +1,57 @@
+    title: There is nothing wrong with Scala
+    date: 2011-10-14
+    tags: rant, programming, philosophy, short
+
+### Wait, really? But I thought you hated everyone?
+
+Well, I am not overly fond of its syntax and all, but overall I can
+pretty much knock myself out writing beautiful Scala code. So I guess
+that is a good sign.
+
+### What has got you boiling then?
+
+[Two](https://lampsvn.epfl.ch/trac/scala/browser/scala/tags/R_2_9_1_final/src//library/scala/io/Source.scala#L244) [things](https://lampsvn.epfl.ch/trac/scala/browser/scala/tags/R_2_9_1_final/src//library/scala/io/Position.scala#L1).
+
+Go on, read them, I will wait.
+
+### Okay, you got me, what is wrong with that code?
+
+So, so many things are wrong that I do not even know where to begin.
+
+As a preface, remember that Scala is a language that comes from LAMP,
+one of the prestigious labs of [EPFL](http://epfl.ch/), that has trouble
+holding up to their promise that a multi-paradigm yet orthogonal, etc.
+language would make better software easier to produce.
+
+And yet here is what we find in this code:
+
+  * It starts in an invalid state. Yes, column and line are initialized
+  with 1 and 1 (which is correct), but pos is initialized to 0. Which
+  **would be correct** if pos represented something sane, such as byte
+  offset in the file, but no! Because...
+  * ...they actually pack the line and column in a single 32-bit integer,
+  by some clever bit-shifting and bit-masking. Yes, in Scala. Which, all
+  things considered, is not that smart because...
+  * ...saving 32 bits per Source file you read (the Source object itself
+  probably takes a few dozens of bytes) on a VM that takes hundreds of
+  megabytes to even boot is ridiculous. Additionally...
+  * ...the code silently fails if you have more than 2^20 lines, or more
+  than 2^10 columns. (Laughing? I would not be surprised to find code
+  generators outputting no newlines and files upwards of 1KB)
+  * It assumes all tabs are 4 chars wide. You can adjust that, of course.
+  Good luck finding the real column with anything except tabinc=1, though.
+  * io.Position.pos is not the current position, but the position of the
+  character next last returned. It is documented, but still wtf
+  * Since they are abusing Int, you can still do stuff like pos + 1, but
+  it makes no sense whatsoever - again, it will silently fail and pretty
+  much decode to a random line/column.
+
+All of this to.. avoid storing two integers.
+
+### Conclusion
+
+Writing smart code is not clever.
+
+The code above is not only unsafe, confusing, hard to read and difficult
+to maintain, it also has a long history of bugs (some of which are still
+present in Source).
