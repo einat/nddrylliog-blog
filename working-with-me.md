@@ -50,7 +50,7 @@ cultures and timezones. Yet I still believe we can all work together. To this ef
 here is a little list of things to pay attention to:
 
   * **Take initiatives**. Usually written as *ask for forgiveness, not permission*,
-  although between you and me, if you do not have to permission because you did not
+  although between you and me, if you do not have to ask for forgiveness because you did not
   fuck up anything, that is even better. Do not ask me whether this or this would be
   a good idea and then stand legs crossed until I say yay or nay. I am not the holy
   spirit, often it is way more efficient to try it in branch (yay git), stage it
