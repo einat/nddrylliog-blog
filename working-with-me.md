@@ -18,8 +18,8 @@ Here is a list of things this does **not** entitle you to do:
 
   * **Get sensitive when I disagree with your ideas**. If you ask me for my opinion,
   be ready for honest feedback - it is what you pay me for, after all! There is
-  only one business where you can make money sucking each other's cock, and this
-  I don't work in it. While talking on the idea level, there are no feelings
+  only one business where you can make money sucking each other's cocks, and I don't
+  work in that business. While talking on the idea level, there are no feelings
   involved, no tone, no personal bullshit. Just ideas, and a rational discussion
   about its pros and its cons.
 
