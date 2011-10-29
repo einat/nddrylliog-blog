@@ -1,0 +1,173 @@
+    title: The best technology never wins
+    date: 2011-10-29
+    tags: perspective, rant
+
+### Primer
+
+This article is the culmination of my career as a developer.
+
+Instead of rushing into some other crazy software project, I am taking some time
+to look back at what I have learned in the past 10 years, and draw observations from it.
+
+### Technology cycles
+
+To open such an perilous post, quoting one of the monuments of software construction
+literature, Steve McConnell's "Code Complete", seems appropriate:
+
+   "During my career I've seen the PC's star rise while the mainframe's star dipped toward
+   the horizon. I've seen GUI programs replace character-based programs. And I've seen
+   the Web ascend while Windows decines. I can only assume that by the time you read this
+   some new technology will be in ascendance, and Web programming as I know it
+   today (2004) will be on its way out. These technology cycles, or waves, imply different
+   programming practices depending on where you find yourself on the wave.
+
+   In mature technology environments - the end of the wave, such as Web programming
+   in the mid-2000s - we benefit from a rich software development infrastructure. Late-
+   wave environments provide numerous programming language choices, comprehen-
+   sive error checking for code written in those languages, powerful debugging tools,
+   and automatic, reliable performance optimization. The compilers are nearly bug-free.
+   The tools are well documented in vendor literature, in third-party books and articles,
+   and in extensive Web resources. Tools are integrated, so you can do UI, database,
+   reports, and business logic from within a single environment. If you do run into prob-
+   lems, you can readily find quirks of the tools described in FAQs. Many consultants
+   and training classes are also available.
+
+   In early-wave environments - Web programming in the mid-1990s, for example - the
+   situation is the opposite. Few programming language choices are available, and those
+   languages tend to be buggy and poorly documented. Programmers spend significant
+   amounts of time simply trying to figure out how the language works instead of writing
+   new code. Programmers also spend countless hours working around bugs in the lan-
+   guage products, underlying operating system, and other tools. Programming tools in
+   early-wave environments tend to be primitive. Debuggers might not exist at all, and
+   compiler optimizers are still only a gleam in some programmer's eye. Vendors revise
+   their compiler version often, and it seems that each new version breaks significant
+   part of your code. Tools aren't integrated, and so you tend to work with different
+   tools for your UI, database, reports, and business logic. The tools tend not to be very com-
+   patible, and you can expend a significant amount of effort just to keep existing func-
+   tionality working against the onslaught of compiler and library releases. If you run
+   into trouble, reference literature exists on the Web in some form, but it isn't always
+   reliable and, if the available literature is any guide, every time you encounter a prob-
+   lem it seems as if you're the first one to do so."
+
+      -- Steve McConnell, "Code Complete" (2nd edition)
+
+This splendiferous quote is still relevant in 2011, and I predict it will stay so for the
+decades to come, as long as software craft is alive.
+
+To decode the current state of technology, we must consider what replaced enterprise
+software as the primary focus of software development companies: the social web.
+
+### The rise of the social web
+
+Sharing is akin to consumption: at the dawn of the web, sharing experienced an exponential
+growth that truthfully mirrored the needs and wishes of its users.
+
+UNIX users had .plan files. John Carmack's entries became famous enough to be inventored
+in HTML form, on the web. Academics built websites out of pure content, a stylesheet-free
+bliss of unspoiled knowledge.
+
+The first networking platforms such as GeoCities rose from the need of human beings
+to share content with each other. Demand was then much higher than supply. This explains
+its roaring success, along with the formidable expansion and lifecycles of social
+networks after that.
+
+PHP and MySQL shared hosting paved the way for a generation of enlightened teenagers
+to build internet forum boards nurturing tight communities around shared interests such as
+technology, literature, and lifestyle.
+
+As a programming language amateur, PHP makes me scream for its lack of purity, strictness,
+and adherence to any proper paradigm. However, its historical significance is arguably
+overseen. It empowered thousands and thousands of people to communicate through platforms
+that they could buy by themselves.
+
+There was no hard dependency on any central provider. You had control of your own database.
+If you didn't like a shared hosting plan, you could move to another company. Communities
+were organized, self-regulated with designated moderators.
+
+Oh, how things have changed. Monetizing social interactions is a question that not only
+MySpace had to ask itself. Analysts kept seeing curves shooting through the roof and spent
+the better part of their sleepless nights trying to figure out how to make their profits
+have similar slopes.
+
+Traditional local grocery stores were serving a well-defined and modest goal: to supply
+hungry customers with quality food products. From a supply chain point of view, it made
+perfect sense as a middleman between producers and consumers. It would be too time-consuming
+for farmers to directly deal with customers, or for consumers to go all the way to a
+farm to buy products, on a large scale.
+
+In the same perspective of fitting one's function, forum software such as UBB (1996) or
+the later phpBB (1999) were perfectly adequate for sharing thoughts about common interests!
+But there was one problem: they had no business model **per se**. How can you make profits
+when community hubs are owned by members who won't sell out out of intellectual integrity?
+
+For social networking to evolve into a monetizable artifact, it had to become centralized,
+generalized, and incentivized. In order to become reality, sharing had to be forced down
+the throats of groups of people who had nothing to share in the first place.
+
+The success of Facebook is similar to the success of a party to which you invite the whole
+world with a giant room and no drinks. "So lots of people are here. What do you do now?"
+is a question that came up after most of the scaling issues were resolved.
+
+One of the apparent advantages of centralization is the promise that you are going to meet
+more people. Not smarter people, not people that have shared interests with you. We have
+not yet seen the emergence of algorithms obviously capable of determining the friendship
+potential of two people, even though dating websites have been working pretty hard on it.
+The act of 'liking' was meaningless to begin with, and tells as much about someone as
+knowing the color of one's underwear.
+
+On the flip side, centralization only made sharing poorer. For one, because it made
+censorship a lot easier. When all the content people share is indexable by a single entity
+(as opposed to decentralized, private, password-protected, gated communities), it suddenly
+becomes a lot easier to filter unwanted opinions.
+
+But with centralization, the neanderthal of business models can take its toll: advertisement.
+As with social networking and grocery stores, the purpose of advertisement has been lost
+with years. It used to genuinely advertise, ie. make publicly known, services or goods
+vendors to people who needed it.
+
+But advertising is still the favorite fallback of any start-up. As soon as you start trying
+to start a business off something that really ought to be free, you find yourself cornered
+by the reality of the current offering. "We'll just include ads and make it up in volume",
+you say.
+
+And the world keeps on rolling.
+
+### Programmers love challenges, decisions-makers love trends
+
+The firm grip of business imperatives may have adversely affected technology evolution, but
+alas it is far from the only offender.
+
+Programmers are guilty as charged in the unending succession of technology waves we are
+witnessing. Skilled programmers only reach that point if they have a resolute love of the
+whole learning process, because the knowledge base is so incredibly large.
+
+It takes dedication, and mind-sharpening skills, to get from the point where you see cool
+technology and wonder how it all works, to the point where you cannot use a product without
+making up theories about which technologies it uses, what algorithm is behind it, what
+trade-off they have done.
+
+There is nothing new under the sun. The world of software has been stalling since the 1970s.
+I could go at lengths about the failings of the academic world to maintain high standards in
+teaching, but the issue that attention spans have become shorter is striking developers just
+as hard as anyone else.
+
+As a result, it is more enticing for a developer (including on their resume) to have a wide
+breadth of languages and platforms, even if they have barely grazed their surfaces, than to be
+highly knowledgeable in one specific area.
+
+I am not in favor of learning one language and calling it a day. Learning different languages
+is part of basic software development culture and should be the norm rather than the
+exception. What I'm pointing out is that all recent languages who gain popularity are variations
+on a theme rather than real innovation.
+
+
+
+
+
+
+
+
+
+
+
+
