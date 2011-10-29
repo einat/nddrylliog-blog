@@ -1,6 +1,6 @@
     title: The best technology never wins
     date: 2011-10-29
-    tags: perspective, rant
+    tags: perspective, rant, draft
 
 ### Primer
 
