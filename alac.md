@@ -160,14 +160,72 @@ is part of basic software development culture and should be the norm rather than
 exception. What I'm pointing out is that all recent languages who gain popularity are variations
 on a theme rather than real innovation.
 
+Concurrency is no better off in 2011 than it was forty years ago. Threads, coroutines, and
+the higher-level, imperfect, limited abstractions we have built over them are twice as old as
+me, and yet they are being rediscovered every time someone claims to have a new idae.
 
+One of the reasons actual progress is stalled is because an awful lot of man-hours are wasted
+on surfing from one technology wave to another. The current trend is to re-develop everything
+on top of JavaScript (ie. Jeff Atwood's Law) so it can run in browsers.
 
+Why is it so? Does JavaScript bring any kind of technical advantage over any other known
+language? Hell no! It is, in fact, inferior to most popular languages in usage nowadays. Be it
+for tooling, performance, expressivity, JavaScript falls in the weak part of the crowd more
+often than not.
 
+And yet, it is one of the top 10 programming languages according to TIOBE. The JavaScript
+community seems to just keep growing and growing. Every small achievement is celebrated, often
+out of proportion.
 
+And it's not simply because JavaScript is pretty much the only choice for browser scripting.
+No, people are starting to adopt it on the server side, and to build all kinds of applications,
+even non-web related.
 
+The web, after all these years of standards dabbling, of vendor battling each other whilst
+trying to walk in the same direction, is still in many ways a subpar platform for many kinds
+of applications.
 
+But all of this doesn't matter, because it is, apparently, still the next thing. The surefire
+way to reach billions of people. Overwhelmed by the promise of numbers, thousands of developers
+are spending their nights re-developing inferior solutions on an inferior platform at the cost
+of an inferior social life.
 
+HTML5 is a war that isn't going to end any time soon. Mobile game developers are crying for
+a low-level audio API so they can play multiple sounds without caring if the DOM lags for
+hundred of milliseconds, making precise timing of sample playback impossible.
 
+The standards bodies touts half-baked proposals such as the HTML5 audio tag, as if they were
+the holy grail. Not only are the people plagued by their narrow-mindedness and lack of perspective,
+they are also prone to corporate pressure and sabotage.
+
+While all of this happens, a generation of seasoned programmers sigh and shrug, thinking:
+"We have been doing this for decades." And Adobe Flash still remains the only viable solution
+for serious audio and video on the web, because of patents, missing features, cross-browser
+compatibility, market share, CDN support...
+
+The audio and video broadcasting market is an incredible racket with unbelievable margins.
+The costs of bandwidth are roughly as ridiculous as the price of SMS in 2011.
+
+Content distribution, and in particular live content, is not an easy problem. But it's certainly
+not rocket science either. However, it is no exception to the business rule: nobody (except
+consumers) have any interest in improving it.
+
+For CDN companies, it is perfectly satisfactory to be playing Adobe and Microsoft's game. They
+have no interest in research, because they make entirely too much money already, much like
+most VPS hosting companies.
+
+Nobody in business has any interest in making the best codec technology win either. The most
+used codec on the planet, MP3, is still plagued by patents from Thompson and Fraunhofer. AAC,
+although standardized by ISO and IEC, require licenses to distribute codecs in binary form.
+
+On the lossless side, ALAC has just been opened up by Apple. Big whoop, say audiophiles, FLAC
+has been available, open-source, and technically superior for years. Yes, but only ALAC is
+supported on Apple software and hardware, which millions of people keep using despite its
+lockdown business system.
+
+The case for high-definition video was easy to make, because you could show the pixels. Doing
+the same with audio is a lot less obvious. Codecs are not end-product. They aren't a real
+business. They are just a tool used by companies to distribute content to their customers.
 
 
 
