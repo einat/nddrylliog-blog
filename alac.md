@@ -227,5 +227,55 @@ The case for high-definition video was easy to make, because you could show the 
 the same with audio is a lot less obvious. Codecs are not end-product. They aren't a real
 business. They are just a tool used by companies to distribute content to their customers.
 
+The best tech doesn't win, because the best tech doesn't make the most money.
+
+### Lovers of good things are but a wee minority
+
+People who run the big businesses are not looking for quality. They are looking for profits.
+People who buy the most food, clothes, and other necessary items are not looking for quality.
+They are looking for discounts, two-for-ones, mail-in rebates and bulk sales.
+
+As a developer, I have developed a love for the fine things in life. Things that make me
+all tingly inside, and suddenly I find myself wearing a monocle and drinking Chardonay. It might
+be replacing a few hundreds lines of codes with a component that's weighs in the few tens. Or
+it might be just an exceptionally well crafted computer game.
+
+The evolution of the Heroes of Might and Magic series strikes me personally as a prime
+example of software gone wrong. The first three opuses, from A Strategic Quest (1995) to
+The Restoration of Erathia (1999), sported a flawless progression both in riveting gameplay
+and artistic excellence, through the flamboyant 2D graphics as well as the majestic soundtrack.
+
+Heroes III was widely acclaimed as the best in the series. Two expansions were made, and
+another fanmade, "In the Wake of Gods". And then Heroes IV happened. A complete clusterfuck,
+with apparently no art direction. And then they tried to force 3D down Heroes V's throat.
+
+And then Heroes VI happened, on which I wasted a good 49 euros. It's a testimony to every
+modern AAA game. With average art for its budget, a lengthy and prejudiced story line, it brought
+the final blow on the Heroes of Might and Magic series by betraying its gameplay in unforgivable
+ways, and having this sluggish, slow-paced experienced that most 3D strategy based games seem
+to have nowadays.
+
+A profit-based economy does not aim for quality. Quality things are created by small teams
+of passionate people who spend entirely too much time polishing their creation with love
+and attention to detail. That kind of process does not bode well in the current economic conditions.
+
+### Final words
+
+In software development as everywhere else, ignorance is bliss. If you want to stay a happy
+developer, you better start ignoring right now anything I said above. But remember that, the
+more skilled a developer is without being conscious about all this, the bigger tool he is
+to his employers.
+
+However, if you want to continue on the road to enlightenment, delve in the past. Open the doors
+of a university library and take up deciphering old papers from the 70s and 80s. Read the Journals
+from the ACM. Have the resilience not to be another college dropout, and use that extra insight
+to have the upper hand.
+
+It is alright to go out there and explore. It is alright to try and create new programming
+languages, even whole new platforms. As long as you are aware that it is most often playtime.
+That you know when to re-use, and that you know how to take advantage of the rich and long history
+of software.
+
+
 
 
