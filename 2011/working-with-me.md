@@ -2,13 +2,13 @@
     date: 2011-10-14
     tags: rant, work
 
-### <introductory bullshit>
+### Introductory bullshit
 
-<insert heartfelt comment about how I am sorry if this offends anybody and
-where is the closest tissue store>
+Insert heartfelt comment about how I am sorry if this offends anybody and
+where is the closest tissue store.
 
-<note about how this is not related in any way to my current or past experiences
-and that any person recognizing him or herself is welcome to hide in the closet>
+Note about how this is not related in any way to my current or past experiences
+and that any person recognizing him or herself is welcome to hide in the closet.
 
 ### If you are above me
 
