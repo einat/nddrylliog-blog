@@ -114,9 +114,12 @@ technology evolves, it is slowly becoming clear in my mind that maybe, just mayb
 Hollywood movie production model is not going to be sustainable for long anymore.
 
 Vimeo is full of creative people showing every day that you don't need a military budget to
-make a vivid piece. The art of story-telling has last been revolutionized when color movies became
-widespread. Everything else (especially 3D, all kinds of special effects) could just as well
-be suggested.
+make a vivid piece. Digital equipment has made video acquisition almost costless, all that's left
+is working with talented people, having a knack for telling stories and transmitting emotions,
+and leveraging social media to publish your work for virtually no cost.
 
-The blockbuster spirit is a bankrupt mindset. Going lean isn't just for tech start-ups anymore.
+As well as small development studios can achieve what big companies struggle to pull off, small,
+dedicated production teams shoot their way through my heart like megaproductions seldom do.
+And maybe, ultimately, that is the solution to an economical problem as well. Is the world ready
+to give up global culture?
 
