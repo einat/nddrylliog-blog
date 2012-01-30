@@ -28,7 +28,7 @@ From a capitalist, number-crunching perspective, creation services suck, precise
 so much harder to deal with than exploitation services. To counter this problem, software development
 companies often attempt to sell the same product to many clients (which leaves them with the problem
 of coming up with a product general enough to be of interest to a significant number of clients, yet
-specific enough to be realized in a reasonable timeframe.)
+specific enough to be realized in a reasonable timeframe).
 
 But there is another approach, which has been arguably popularized by economists, and it is to turn
 creation services into meta-exploitation services. By considering creative employees as a resource
@@ -84,7 +84,7 @@ talented web creation studios don't get contracts from the Department of Defense
 match the level of suitcase bullshit and corporate pedigree that is obligatory in that kind of
 relationships.
 
-Taking a few step backs, we see two typical interaction scenarios: mammoths dealing with other
+Taking a few steps back, we see two typical interaction scenarios: mammoths dealing with other
 mammoths, exchanging millions of dollars for overrated results, and small teams dealing with small
 clients, exchanging thousands of dollars at a time for (often) underrated work quality. What can
 we gather from that situation?
