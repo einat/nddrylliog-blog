@@ -85,6 +85,8 @@ a bright future ahead of you, regardless of your decision.
 
 And now, good luck!
 
-> If you found this piece of advice useful and/or want to share some of your own experience,
-> feel free to ping me. I'm [@nddrylliog](https://twitter.com/nddrylliog) on Twitter.
+> If you found this piece of advice useful and/or want to share some  
+> of your own experience, feel free to ping me.
+>
+> I'm [@nddrylliog](https://twitter.com/nddrylliog) on Twitter.
 
