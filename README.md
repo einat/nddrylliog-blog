@@ -2,6 +2,7 @@ Those are words I type.
 
 ## 2012
 
+  * 2012-02-27 - [So you just received a job offer](https://github.com/nddrylliog/blog/blob/master/2012/job-offers.md)
   * 2012-01-27 - [Winning with class](https://github.com/nddrylliog/blog/blob/master/2012/winning.md)
 
 ## 2011
