@@ -2,7 +2,7 @@
     date: 2012-02-27
     tags: opinion, perspective, work, career, advice
 
-### So, you just received a job offer...
+### So you just received a job offer...
 
 You're a brilliant chap, you've published or have contributed to a few open-source
 projects. You tweet and retweet interesting things, and you may even have a portfolio
@@ -20,8 +20,8 @@ However, here are a few things to keep in mind.
 
 As true as [VCs are not your friends][vcs], recruiters are not your friends either.
 In their eyes, you are meat. Tender, delicate, fresh meat, but still meat. We are
-talking about the brand people able to put hundreds of employees out of their jobs
-because it helps maximizes profits.
+talking about the brand of people willing to put hundreds of employees out of their
+jobs because it helps maximize profits.
 
 If you're still having doubts about this, read [The Rise of Developeronomics][douches],
 published in Forbes, one of the world's largest business magazine. While some business
@@ -38,16 +38,16 @@ hesitation. But, for humanity's sake, don't lose your shit. You are in demand he
 which means you get to play 'hard to get'. That's right.
 
 Finding good developers is a daunting task. Companies spend a great deal of money paying
-other companies to do the scouting for them, most of the time with little success. The
-smartest in the bunch put out challenges for curious hackers to get hooked on.
+other companies to do the scouting for them, often with little success. The smartest
+in the bunch put out challenges for curious hackers to get hooked on.
 
-But all in all, recruitment is still a game of hit and miss. A good recruiter will have
-done an essential deal of homework on you: reviewing your main skills, notable open-source
+Even then, recruitment is still largely a game of hit and miss. A good recruiter will have
+done a minimum of homework on you: reviewing your main skills, notable open-source
 contributions, studies, etc. But don't kid yourself: he's probably not obsessing over you.
 
 Realizing that the person asking on you is simultaneously asking out dozens of other
-folks right now should calm you down a little. Avoid being too excited, too verbose, or
-too praisy in your response. Stay polite, short, and efficient. They'll appreciate it, too.
+folks right now should help you keep it cool. Avoid being too excited, too verbose, or
+too praisy in your response. Stay polite, short, and efficient. They'll appreciate it too.
 
 ### Don't put out until third date
 
@@ -71,19 +71,19 @@ If you are really good, chances are you will get other offers. Don't abandon you
 lightly. If you can combine school and a job, awesome! Just make sure you don't burn out.
 Don't commit for life to a company, think bigger.
 
-Do you have start-up ambitions of your own? Sure, a job means month ends are less stressful,
-but the fact of the matter is that you'll be working towards someone else's dream. It can
-be a valuable piece of experience, but it's not your baby. Choose your priorities.
+Do you have start-up ambitions of your own? Sure, a job means less stress towards the end
+of the month. but the fact is that you'll be working towards someone else's dream. It can
+be a valuable piece of experience, but it's not your baby. Choose your priorities with care.
 
-Just because you say "no thanks" doesn't mean you can't stay in contact with the dudes.
-Building a network of your own never hurts, whatever your career ends up looking like.
+Just because you say "no thanks" doesn't mean you can't stay in contact. Build up your
+network: that never hurts, whatever your career ends up looking like.
 
 ### Smile!
 
-You should feel good about yourself. A good job offer is a good indicator that you have
+You should feel good about yourself. A fancy job offer is a good indicator that you have
 a bright future ahead of you, regardless of your decision.
 
-And now, good luck!
+Good luck!
 
 > If you found this piece of advice useful and/or want to share some  
 > of your own experience, feel free to ping me.
