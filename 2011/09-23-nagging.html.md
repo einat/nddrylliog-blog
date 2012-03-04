@@ -1,7 +1,7 @@
 ---
 title: Hire people who bug you
 date: 2011-09-23
-tags: rant, work, social
+tags: [ rant, work, social ]
 layout: post
 ---
 

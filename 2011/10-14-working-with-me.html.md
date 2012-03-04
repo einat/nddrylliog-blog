@@ -1,7 +1,7 @@
 ---
 title: Working with me
 date: 2011-10-14
-tags: rant, work
+tags: [ rant, work ]
 layout: post
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Winning with class
 date: 2012-01-27
-tags: opinion, perspective, entrepreneurship, ethics
+tags: [ opinion, perspective, entrepreneurship, ethics ]
 layout: post
 ---
 

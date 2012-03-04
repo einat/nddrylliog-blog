@@ -1,7 +1,7 @@
 ---
 title: Understanding the effects of pressure
 date: 2011-07-25
-tags: lifestyle, internet
+tags: [ lifestyle, internet ]
 layout: post
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: The best technology never wins
 date: 2011-10-29
-tags: perspective, rant, draft
+tags: [ perspective, rant, draft ]
 layout: post
 ---
 

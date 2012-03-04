@@ -1,7 +1,7 @@
 ---
 title: A few disturbing thoughts about sanity
 date: 2012-02-29
-tags: perspective, psychology
+tags: [ perspective, psychology ]
 layout: post
 ---
 
