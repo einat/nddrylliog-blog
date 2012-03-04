@@ -1,6 +1,8 @@
-    title: So you just received a job offer
-    date: 2012-02-27
-    tags: opinion, perspective, work, career, advice
+---
+title: So you just received a job offer
+date: 2012-02-27
+tags: opinion, perspective, work, career, advice
+---
 
 ### So you just received a job offer...
 
