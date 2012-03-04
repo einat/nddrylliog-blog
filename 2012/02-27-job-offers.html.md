@@ -87,9 +87,3 @@ You should feel good about yourself. A fancy job offer is a good indicator that 
 a bright future ahead of you, regardless of your decision.
 
 Good luck!
-
-> If you found this piece of advice useful and/or want to share some  
-> of your own experience, feel free to ping me.
->
-> I'm [@nddrylliog](https://twitter.com/nddrylliog) on Twitter.
-

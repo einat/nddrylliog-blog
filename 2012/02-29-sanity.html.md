@@ -72,9 +72,3 @@ unknown or to be left alone, laziness.
 Make an informed choice for yourself. I have warned you: defying the average is not
 without its perils. As for me, after a long period of dark thoughts and self-repression,
 I'm back to my original philosophy: be bold in everything you do.
-
-> If you found this piece of opinion useful and/or want to share some  
-> of your own experience, feel free to ping me.
->
-> I'm [@nddrylliog](https://twitter.com/nddrylliog) on Twitter.
-
