@@ -2,6 +2,7 @@
 title: Why BitTorrent rocks
 date: 2011-05-12
 tags: interview, short, internet
+layout: post
 ---
 
 ### So, what's so great about BitTorrent?

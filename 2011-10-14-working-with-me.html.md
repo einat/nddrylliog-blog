@@ -2,6 +2,7 @@
 title: Working with me
 date: 2011-10-14
 tags: rant, work
+layout: post
 ---
 
 ### Introductory bullshit
