@@ -76,3 +76,8 @@ survival.
 I have found that the only way to live life fully is to know how to balance between poison
 and nectar, between demons and angels, between sleepless nights and sunset snuggles.
 
+> If you liked this post and want to take the discussion further,
+> feel free to ping me!
+>
+> I'm [@nddrylliog](https://twitter.com/nddrylliog) on Twitter.
+
