@@ -1,6 +1,10 @@
-    title: Hi! The world is yours.
-    date: 2012-03-14
-    tags: perspective, entrepreneurship, thebootstrap
+---
+title: Hi! The world is yours.
+date: 2012-03-14
+tags: [ perspective, entrepreneurship, thebootstrap ]
+layout: post
+nofooter: true
+---
 
 ### Done cruising
 
