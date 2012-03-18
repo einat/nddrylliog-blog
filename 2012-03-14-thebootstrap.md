@@ -1,6 +1,10 @@
-    title: Hi! The world is yours.
-    date: 2012-03-14
-    tags: perspective, entrepreneurship, thebootstrap
+---
+title: Hi! The world is yours.
+date: 2012-03-14
+tags: [ perspective, entrepreneurship, thebootstrap ]
+layout: post
+nofooter: true
+---
 
 ### Done cruising
 
@@ -114,11 +118,6 @@ Hi! The world is yours.
 
 Make what you want out of it, but put your heart into it.
 
-> If you liked this post, and want to take the discussions further,
-> feel free to ping me!
->
-> I'm [@nddrylliog](https://twitter.com/nddrylliog) on Twitter.
->
 > [thebootstrap](http://thebootstrap.ch/) is a volunteer operation looking to support people
 > who want to take a proactive shot at life and entrepreneurship
 > in Switzerland.
