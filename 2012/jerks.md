@@ -1,0 +1,83 @@
+    title: Dealing with jerks
+    date: 2012-03-05
+    tags: opinion, perspective, entrepreneurship, ethics, startup weekend
+
+### Living in a bubble
+
+Hi! I'm Amos, I was born in 1990 in a family who believed protecting me from the world
+was the best way to prepare me for it. Sensitive images were torn off magazines, we
+were closely monitored, family secrets were kept from us.
+
+Enter high school. Introverts with high grades make good candidates for bullies to prey on.
+I had my fair share of nagging and name-calling throughout the years. Nothing much
+to complain about, just your regular scholar abuse.
+
+Was it enjoyable? Evidently not. It crushed my spirits more often than not. At times I
+was so terrified that I ran for my life at the end of class so the bullies would not get me.
+And then proceeded to years of nightmare about being chased.
+
+Living in a bubble had done me terrible damage. My capacity to absorb and endure abuse
+never even had a chance to develop until I was twelve.
+
+### On the desirable
+
+Bullies are people who enjoy hurting others. Trolls are people who get off on stirring
+flamewars inside a community. Jerks are (in this context) brutally honest people who
+tend to lack empathy towards your hurt feelings.
+
+I too, wish that there were no bullies, trolls, nor jerks. I don't like when people who
+grossly misunderstand my ideas allow themselves to take a royal piss on the byproduct of
+my hard work. It just doesn't feel good.
+
+The bad news is that such is life: the world is full of jerks, bullies, and trolls. And,
+especially if you are going to launch a start-up into orbit, or any other activity that
+requires dedications for years and generally pouring your life into it, you are going to
+have to deal with them.
+
+Your investors will be jerks. Some of your clients will be bullies. Your competitors
+will be trolls. Your significant other of several years might leave you because they
+can't accomodate your new lifestyle. Your family might harass you with discouraging stances
+on how you are never going to succeed.
+
+### Pragmatic vs right
+
+The 'right' approach here, would probably be to try and repress jerks, bullies and trolls.
+Or at least, try to educate them so that they know better. However, I will go ahead
+and claim that all of this is lost time that you will never regain.
+
+The 'right' approach involves trying to change everyone around you so that they will bother
+you less. The 'pragmatic' approach involves changing yourself so that you will be impervious
+to external agressions, and able to achieve your goals no matter what the people around
+you think about you or your craft. Which do you think will be the most successful?
+
+Successful people make compromises. Successful people don't mind looking like asses, and
+committing huge mistakes, because they know it is the most effective way to learn a lesson.
+They will happily look stupid if appeasing a team member is necessary for the short-term
+operation of their business.
+
+Some very useful people are jerks on a regular basis, not because they mean evil, but
+because they have a busy schedule and have to find clear-cut, efficient ways of communicating
+(also known as: cutting the bullshit). Do not give up on those people, they are useful too.
+
+### HOWTO: Life
+
+To close this late night post, let me try to come up with a succesful strategy for dealing
+with all kinds of people: if the exchange is unpleasant, ie. if you're being criticized, ask
+yourself "What am I getting out of this?" Be selfish. Decide whether the person in front of
+you is worth your time. Don't be too quick though: even people completely off the mark can
+drop nuggets of generally applicable advice.
+
+However, if you're having a good time, cherish it. Finding like-minded people is a life
+challenge. When you do stumble upon people who you can share a good moment with, take
+a deep breath, look around you, let your heartbeat cool, enjoy life. These people are your
+support net. They won't come from where you expect them, but they are essential to your
+survival.
+
+I have found that the only way to live life fully is to know how to balance between poison
+and nectar, between demons and angels, between sleepless nights and sunset snuggles.
+
+> If you liked this post and want to take the discussion further,
+> feel free to ping me!
+>
+> I'm [@nddrylliog](https://twitter.com/nddrylliog) on Twitter.
+

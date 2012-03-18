@@ -2,6 +2,8 @@ Those are words I type.
 
 ## 2012
 
+  * 2012-03-14 - [Hi! The world is yours.](https://github.com/nddrylliog/blog/blob/master/2012-03-14-thebootstrap.md)
+  * 2012-03-05 - [Dealing with jerks](https://github.com/nddrylliog/blog/blob/master/2012-03-05-jerks.md)
   * 2012-02-29 - [A few disturbing thoughts about sanity](https://github.com/nddrylliog/blog/blob/master/2012-02-29-sanity.md)
   * 2012-02-27 - [So you just received a job offer](https://github.com/nddrylliog/blog/blob/master/2012-02-27-job-offers.md)
   * 2012-01-27 - [Winning with class](https://github.com/nddrylliog/blog/blob/master/2012-01-27-winning.md)
