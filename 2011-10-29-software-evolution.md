@@ -17,50 +17,50 @@ to look back at what I have learned in the past 10 years, and draw observations 
 To open such an perilous post, quoting one of the monuments of software construction
 literature, Steve McConnell's "Code Complete", seems appropriate:
 
-     "During my career I've seen the PC's star rise while the mainframe's
-     star dipped toward the horizon. I've seen GUI programs replace
-     character-based programs. And I've seen the Web ascend while Windows
-     decines. I can only assume that by the time you read this some new
-     technology will be in ascendance, and Web programming as I know it
-     today (2004) will be on its way out. These technology cycles, or
-     waves, imply different programming practices depending on where you
-     find yourself on the wave.
-
-     In mature technology environments - the end of the wave, such as Web
-     programming in the mid-2000s - we benefit from a rich software
-     development infrastructure. Late- wave environments provide numerous
-     programming language choices, comprehen- sive error checking for code
-     written in those languages, powerful debugging tools, and automatic,
-     reliable performance optimization. The compilers are nearly bug-free.
-     The tools are well documented in vendor literature, in third-party
-     books and articles, and in extensive Web resources. Tools are
-     integrated, so you can do UI, database, reports, and business logic
-     from within a single environment. If you do run into prob- lems, you
-     can readily find quirks of the tools described in FAQs. Many
-     consultants and training classes are also available.
-
-     In early-wave environments - Web programming in the mid-1990s, for
-     example - the situation is the opposite. Few programming language
-     choices are available, and those languages tend to be buggy and
-     poorly documented. Programmers spend significant amounts of time
-     simply trying to figure out how the language works instead of writing
-     new code. Programmers also spend countless hours working around bugs
-     in the lan- guage products, underlying operating system, and other
-     tools. Programming tools in early-wave environments tend to be
-     primitive. Debuggers might not exist at all, and compiler optimizers
-     are still only a gleam in some programmer's eye. Vendors revise their
-     compiler version often, and it seems that each new version breaks
-     significant part of your code. Tools aren't integrated, and so you
-     tend to work with different tools for your UI, database, reports, and
-     business logic. The tools tend not to be very com- patible, and you
-     can expend a significant amount of effort just to keep existing func-
-     tionality working against the onslaught of compiler and library
-     releases. If you run into trouble, reference literature exists on the
-     Web in some form, but it isn't always reliable and, if the available
-     literature is any guide, every time you encounter a prob- lem it
-     seems as if you're the first one to do so."
-     
-        -- Steve McConnell, "Code Complete" (2nd edition)
+> "During my career I've seen the PC's star rise while the mainframe's
+> star dipped toward the horizon. I've seen GUI programs replace
+> character-based programs. And I've seen the Web ascend while Windows
+> decines. I can only assume that by the time you read this some new
+> technology will be in ascendance, and Web programming as I know it
+> today (2004) will be on its way out. These technology cycles, or
+> waves, imply different programming practices depending on where you
+> find yourself on the wave.
+> 
+> In mature technology environments - the end of the wave, such as Web
+> programming in the mid-2000s - we benefit from a rich software
+> development infrastructure. Late- wave environments provide numerous
+> programming language choices, comprehen- sive error checking for code
+> written in those languages, powerful debugging tools, and automatic,
+> reliable performance optimization. The compilers are nearly bug-free.
+> The tools are well documented in vendor literature, in third-party
+> books and articles, and in extensive Web resources. Tools are
+> integrated, so you can do UI, database, reports, and business logic
+> from within a single environment. If you do run into prob- lems, you
+> can readily find quirks of the tools described in FAQs. Many
+> consultants and training classes are also available.
+> 
+> In early-wave environments - Web programming in the mid-1990s, for
+> example - the situation is the opposite. Few programming language
+> choices are available, and those languages tend to be buggy and
+> poorly documented. Programmers spend significant amounts of time
+> simply trying to figure out how the language works instead of writing
+> new code. Programmers also spend countless hours working around bugs
+> in the lan- guage products, underlying operating system, and other
+> tools. Programming tools in early-wave environments tend to be
+> primitive. Debuggers might not exist at all, and compiler optimizers
+> are still only a gleam in some programmer's eye. Vendors revise their
+> compiler version often, and it seems that each new version breaks
+> significant part of your code. Tools aren't integrated, and so you
+> tend to work with different tools for your UI, database, reports, and
+> business logic. The tools tend not to be very com- patible, and you
+> can expend a significant amount of effort just to keep existing func-
+> tionality working against the onslaught of compiler and library
+> releases. If you run into trouble, reference literature exists on the
+> Web in some form, but it isn't always reliable and, if the available
+> literature is any guide, every time you encounter a prob- lem it
+> seems as if you're the first one to do so."
+> 
+>    -- Steve McConnell, "Code Complete" (2nd edition)
 
 This splendiferous quote is still relevant in 2011, and I predict it will stay so for the
 decades to come, as long as software craft is alive.
