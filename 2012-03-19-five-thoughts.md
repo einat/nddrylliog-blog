@@ -1,7 +1,7 @@
 ---
 title: Five thoughts
 date: 2012-03-19
-tags: [ perspective, entrepreneurship, advice, psychology, work ]
+tags: [ perspective, entrepreneurship, psychology ]
 layout: post
 nofooter: true
 ---

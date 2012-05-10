@@ -1,7 +1,7 @@
 ---
 title: Hi! The world is yours.
 date: 2012-03-14
-tags: [ perspective, entrepreneurship, thebootstrap ]
+tags: [ perspective, entrepreneurship ]
 layout: post
 nofooter: true
 ---

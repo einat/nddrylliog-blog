@@ -1,7 +1,7 @@
 ---
 title: Congrats! You've pissed me off enough to write about you
 date: 2011-09-06
-tags: [ rant, benchmarking, nodejs, jruby ]
+tags: [ rant, performance ]
 layout: post
 ---
 
