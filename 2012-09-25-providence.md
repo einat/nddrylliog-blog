@@ -14,13 +14,15 @@ about giving up, so I got a few surprised reactions to it.
 
 [ohfuck]: http://amos.me/blog/2012/ohfuck/
 
-But most importantly, I got an e-mail from the co-founder of goodfil.ms
+But most importantly, I got an e-mail from the co-founder of [goodfil.ms][gfm]
 himself :) While I won't take the liberty to reproduce it here, it was, overall,
 very encouraging. They're a hardworking team as well, and I admire what they've
 been able to put out, but they appreciate the competition as much as anyone.
 Between small structures, the relation is rather friendly: we all know there's
 a problem, but no one's been able to crack it quite yet, so as long as there's
 cash around, we'll keep trying.
+
+[gfm]: http://goodfil.ms/
 
 Since the last week has been crazy, I found myself compelled to write about
 what I would have missed, had I given up on movies.io altogether at the time of
@@ -30,11 +32,13 @@ that previous blog post.
 ### UXRomandie
 
 Even with the gloomy perspective my wednesdsay left me in, I went ahead and
-gave a small talk about movies.io at UXRomandie. It's an event part of a larger
+gave a small talk about movies.io at [UXRomandie][uxr]. It's an event part of a larger
 UX organization, focused on exploring new venues to improve user experience in
 technology in general. Since movies.io is usually praised for its interface, it
 seemed like a good fit for an evening at UXRomandie.  (Lots of thanks to Simon
 Farine for inviting me there, by the way!)
+
+[uxr]: http://uxromandie.ch/episode-8-ou-le-bit-se-fait-torrent/
 
 The first surprise was that there was already movies.io users among the
 audience, and that they started to use it even before they had heard of the
@@ -63,10 +67,12 @@ with [@SwissTengu](st), a member of the Swiss pirate party, and blogger.
 
 [st]: https://twitter.com/swisstengu
 
-Apparently there was to be a meeting the next evening in the SUISA offices,
+Apparently there was to be a meeting the next evening in the [SUISA][suisa] offices,
 about the reform of copyright law in Switzerland. I quickly decided to attend,
 just to see what it was like. We were about 15 participants, in a cosy Lausanne
 office, discussing about the future of retribution for artists and producers.
+
+[suisa]: http://www.suisa.ch/en/
 
 The participants were either artists, producers, pirates, or jurists for the
 SUISA.  SUISA is a rights management cooperative for all of Switzerland. Most
@@ -84,7 +90,7 @@ only to penalize third-parties trying to monetize copyrighted content without
 paying the rightsholder dutifully. (For example, if movies.io started to sell
 movies to Swiss citizens without worrying about rights.)
 
-Another point was that, even though there's an official "discussion group"
+Another point was that, even though there's [an official "discussion group"][bern]
 assembled in Berne, to the request of the Swiss government, to overhaul
 copyright law in Switzerland, it seems unlikely that the law will change in the
 next few years. Part of the reason is that, in Switzerland, there's always a
@@ -92,6 +98,8 @@ certain inertia: officials want to be sure that they're doing the right thing
 before changing anything. Nevertheless, the current situation is basis for
 political pressure on Switzerland mostly from American lobbies: recently, it
 was even put on a "black list" of pirate countries.
+
+[bern]: http://www.ejpd.admin.ch/content/ejpd/fr/home/dokumentation/mi/2012/2012-08-09.html
 
 However, getting out of this ditch isn't going to be really easy. Any move
 regarding the legislation in the area of copyright and downloading in
@@ -173,22 +181,26 @@ looking forward to improvements to the website, and shutting it down would be
 letting them down.
 
 And since I'm never entirely satisfied with anything I do, I kept working on
-it.  One big point was i18n, I've integrated tr8n, a rails-friendly
+it.  One big point was i18n, I've integrated [tr8n][tr8n], a rails-friendly
 internationalization plug-in, which will allow our userbase to translate the
 website in over 233 languages.  Integration is not quite ready yet but I'm
 willing to test it with a limited amount of users to see how it goes.
+
+[tr8n]: https://github.com/berk/tr8n
 
 I've also overhauled almost all pages on the website that deserved some love.
 Most of them are subtle tweaks, but there are more fundamental changes also:
 the story view for watchlists has been completely revamped and now makes
 watchlists into "works of art", taking full advantage of the gorgeous backdrops
-TMDb gracefully makes available. Editing watchlists now also show you
+[TMDb][tmdb] gracefully makes available. Editing watchlists now also show you
 "suggested additions" so that you can discover films similar to what you
 already have in your list. In a similar fashion, movie pages show the top 4
 most popular watchlists containing a particular movie: I think this will help
 with watchlist discovery.
 
-The put.io integration got some love as well. I discovered a bug in their API
+[tmdb]: http://www.themoviedb.org/
+
+The [put.io][putio] integration got some love as well. I discovered a bug in their API
 that made it impossible to stream many movies, simply because the API response
 claimed there was no MP4 available, even though we had requested its conversion
 earlier.  I've implemented a work-around and now all movies should play files.
@@ -196,6 +208,8 @@ The "log in" / "session expiration" issues are still present, but there's
 nothing I can do about them for now, unfortunately. I still recommend using
 [XBMC](http://xbmc.org) to watch movies from put.io though, that's the best way
 for me!
+
+[putio]: https://put.io/
 
 The topbar has seen some love: it's a lot clearer, the "loves" is gone :( but
 there's additional information: notifications can now be seen from any page
