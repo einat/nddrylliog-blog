@@ -8,9 +8,11 @@ nofooter: true
 
 ### Intro
 
-This is a follow-up post to the "oh fuck moment" post. While most of my posts
+This is a follow-up post to the ["oh fuck moment" post][ohfuck]. While most of my posts
 here are seemingly ominous and/or generally dark, it's not like me to blog
 about giving up, so I got a few surprised reactions to it.
+
+[ohfuck]: http://amos.me/blog/2012/ohfuck/
 
 But most importantly, I got an e-mail from the co-founder of goodfil.ms
 himself :) While I won't take the liberty to reproduce it here, it was, overall,
@@ -125,8 +127,10 @@ on a huge catalog. It would allow near-perfect competition in this arena, in
 contrast with the incredibly-closed nature of music and video distribution
 today, where only major actors can succeed, with insider knowledge, and often
 dishonest deals.  (It really is quite terrible, anyone in the industry can -
-but often won't - testify about this. I detailed part of the procedure in "four
-months of movies.io")
+but often won't - testify about this. I detailed part of the procedure in ["four
+months of movies.io"][4mo])
+
+[4mo]: http://amos.me/blog/2012/vision/
 
 The proposal for an API generated mostly positive reactions from all sides.
 Some participants were confused as to the nature of an API, and of the
