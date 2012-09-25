@@ -105,7 +105,7 @@ track usage for a fair redistribution, which I tried to clarify: on the
 internet, and particularly on traditional online marketplaces, it's very easy
 to establish a precise report of who buys what, and how much.
 
-An ex-SUISA lawyer mentioned the case of [MX3][http://mx3.ch], and experiment
+An ex-SUISA lawyer mentioned the case of [MX3](http://mx3.ch), and experiment
 made in Switzerland in fair retribution based on the popularity of the content,
 and explained that they quickly ran into issues of artists "gaming the system"
 by clicking many times on their own tracks: the resulting top 10 was utterly
@@ -190,7 +190,7 @@ claimed there was no MP4 available, even though we had requested its conversion
 earlier.  I've implemented a work-around and now all movies should play files.
 The "log in" / "session expiration" issues are still present, but there's
 nothing I can do about them for now, unfortunately. I still recommend using
-[XBMC][http://xbmc.org] to watch movies from put.io though, that's the best way
+[XBMC](http://xbmc.org) to watch movies from put.io though, that's the best way
 for me!
 
 The topbar has seen some love: it's a lot clearer, the "loves" is gone :( but
