@@ -263,7 +263,7 @@ to be able to talk about it. Meta-language is how we describe the language
 (verbs, adjectives - all these words are part of the vocabulary of meta-language),
 but in a way, language itself is meta, it's meta-observations, because it's a
 way to describe something that is, essentially, unspoken. Like a sunset, or
-sadness. And thus, every language is a lie, because it severly restricts one's
+sadness. And thus, every language is a lie, because it severely restricts one's
 ability - not only to express themselves, but also to think. The fact that I
 am writing this post in English is a pain, because of my lack of fluency in
 this language, but also because I would like to discuss things that English
