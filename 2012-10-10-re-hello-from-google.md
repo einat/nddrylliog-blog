@@ -1,5 +1,5 @@
 ---
-title: Re: Hello from Google
+title: 'Re: Hello from Google'
 date: 2012-10-10
 tags: [ perspective ]
 layout: post
