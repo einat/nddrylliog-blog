@@ -123,3 +123,8 @@ appreciate you reaching out, but I don't think this is for me.
 Sincerely,
 - Amos Wenger
 
+--
+
+There's [a discussion going on](http://news.ycombinator.com/item?id=4636365)
+about this article on HN where I get a chance to clarify a few points.
+
