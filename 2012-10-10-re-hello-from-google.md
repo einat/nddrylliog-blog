@@ -69,15 +69,15 @@ with. And decision on the part of a single entity can ruin a lot of people's
 lives, because we are so dependent on it. (Example: Twitter API rules, sparking
 the App.net too-soon-to-be-called-a-revolution).
 
-Hence, by allowing single entities to gain so much power ([relevant
-XKCD](http://xkcd.com/1118/)), we have betrayed the nature of the internet. The
-remedy? Everyone likes to talk about Peer-to-peer and how it's going to change
-the day, but things are not looking too bright on that front: I've worked with
-BitTorrent for several years, and today the situation is that Copyright lobbies
-have pretty much succeeded in equating it with "illegal filesharing" - although
-a technology is just what it is: a tool. Following Skype's acquisition,
-Microsoft switched from peer-to-peer to central servers (also misleadingly
-called super nodes). The list goes on.
+Hence, by allowing single entities to gain so much power ([relevant XKCD](http://xkcd.com/1118/)),
+we have betrayed the nature of the internet. The remedy? Everyone likes to talk
+about Peer-to-peer and how it's going to change the day, but things are not
+looking too bright on that front: I've worked with BitTorrent for several
+years, and today the situation is that Copyright lobbies have pretty much
+succeeded in equating it with "illegal filesharing" - although a technology is
+just what it is: a tool. Following Skype's acquisition, Microsoft switched from
+peer-to-peer to central servers (also misleadingly called super nodes). The
+list goes on.
 
 Why is the world so reluctant to adopt a peer-to-peer approach to everything? I
 have a few ideas. First, because peer-to-peer is order of magnitudes harder
