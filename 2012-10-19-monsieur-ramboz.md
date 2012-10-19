@@ -89,7 +89,7 @@ confusion, as demonstrated by the history of the notion of 'worldview'.
 > and implicitly creative. Human beings take their place in speech and continue
 > to modify language and thought by their creative exchanges.
 
--- Wikipedia, [Weltanschauung](http://en.wikipedia.org/wiki/Weltanschauung)
+— Wikipedia, [Weltanschauung](http://en.wikipedia.org/wiki/Weltanschauung)
 
 When considering language a creative endeavor (which I think it is), one can
 conclude that language does not consist of a pure lie (in the sense defined in
@@ -190,7 +190,7 @@ and discussing it.
 > constitutes **one of the first comprehensive treatises on the history of
 > economic thought**.
 
--- Wikipedia, [Karl Marx](http://en.wikipedia.org/wiki/Karl_Marx) (emphasis
+— Wikipedia, [Karl Marx](http://en.wikipedia.org/wiki/Karl_Marx) (emphasis
 mine)
 
 To understand Marx's Weltanschauung, you have to get to know one of the
@@ -229,13 +229,13 @@ which Alienation is the most striking to me:
 > in capitalism — his or her self-awareness of this condition is not
 > prerequisite.
 
--- Wikipedia, [Marxism](http://en.wikipedia.org/wiki/Marxism)
+— Wikipedia, [Marxism](http://en.wikipedia.org/wiki/Marxism)
 
 > For Marx, the possibility that one may give up ownership of one's own
 > labour—one's capacity to transform the world—is tantamount to being alienated
 > from one's own nature; it is a spiritual loss.
 
--- Wikipedia, [Karl Marx](http://en.wikipedia.org/wiki/Karl_Marx)
+— Wikipedia, [Karl Marx](http://en.wikipedia.org/wiki/Karl_Marx)
 
 Marx (and Engels) go on to describe "ideologies" as means of control a class has
 over another class. Lower classes tend to consider ideologies timeless and
@@ -254,7 +254,7 @@ about religion:
 > about their condition is to call on them to give up a condition that requires
 > illusions.
 
--- Karl Marx, Contribution to the Critique of Hegel's Philosophy of Right
+— Karl Marx, Contribution to the Critique of Hegel's Philosophy of Right
 
 ### A few steps back
 
@@ -294,7 +294,7 @@ death, the realization of the Theory of progression:
 > have made the transition to service-based (or "post-industrial") economies has
 > increased over time.
 
--- Wikipedia, [Tertiary sector of the
+— Wikipedia, [Tertiary sector of the
 economy](http://en.wikipedia.org/wiki/Tertiary_sector_of_the_economy)
 
 Interestingly, one can remark that the Theory of progression leads to a world
