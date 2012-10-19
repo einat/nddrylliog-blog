@@ -89,7 +89,7 @@ confusion, as demonstrated by the history of the notion of 'worldview'.
 > and implicitly creative. Human beings take their place in speech and continue
 > to modify language and thought by their creative exchanges.
 
--- Wikipedia, [Weltanschauung][http://en.wikipedia.org/wiki/Weltanschauung]
+-- Wikipedia, [Weltanschauung](http://en.wikipedia.org/wiki/Weltanschauung)
 
 When considering language a creative endeavor (which I think it is), one can
 conclude that language does not consist of a pure lie (in the sense defined in
