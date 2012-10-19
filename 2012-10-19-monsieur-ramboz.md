@@ -353,9 +353,69 @@ see a consistent oscillation between entertainment - jokes, games, music, films,
 porn, and expression of ill-being (bullying, obscenity, violence, suicidal
 thoughts).
 
+### On the subject of praxeology
 
+Praxeology asks the question "how do we attain our goals?". If we start from the
+observation that one important problem is that most people are not thinking (at
+all), then our goal could be to get them to think. However, there is little
+incentive for them to do so. So, how do we get people to think?
 
+Waking up this generation is going to be hard. In comparison, brewing a
+rebellion among miners is achieved relatively easily - by simply pointing out
+their conditions of life, and comparing them with those of the ruling class.
 
+However, pointing out those differences now is more difficult - in appearance,
+the working class has access to most of what the ruling class has. The working
+class has cars, internet, coffee and alcohol. It has washing machines, bikes,
+balconies and healthcare. One could almost confuse those classes if they forgot
+about the defining characteristic of the bourgeoisie: to own the means of
+production. Actually, in modern economies, "owning the means of productions" is
+less significant than it was in 1850, but the intention remains the same: the
+bourgeoisie owns the conduits by which value is exchanged.
 
+Not only is making the distinction between the working class and the bourgeoisie
+harder in 2012 than it was in the 1800s, it is also harder to emphasize the
+negative aspects of the current system. It is not uncommon to encounter
+employees who think, in all sincerity, that the current system is satisfactory.
+That they have no interest in being involved in running the world, or even a
+small part of it, and neither do they have the interest or patience to even try
+to understand how it works.
 
+Marx did most of his work because he wanted to have an impact on the world. And
+he wanted to have an impact on the world because he was unhappy with how things
+were going. But what can you do when the majority is relatively satisfied with
+how things are going?
+
+### Capitalism as a hindrance to technological progress
+
+One of the reasons I am unhappy with how the world is going, as a technologist,
+is because I believe technology (note: not the state of research, but the amount
+of discoveries we use in production around the world) has reached a state where
+it would be harmless for capitalism to encourage it more.
+
+Marx recognized capitalism as an engine of technological progress, but that was
+in the 1850s. My belief is that technology has evolved to the point where it
+stroke just the right balance between a) improving productivity, b) providing
+comfort to the working class c) retaining the need for a working class.
+
+My intuition is that if technological progresses were completely free of
+corporate interference, the progress of Earth's inhabitants as a race would be
+phenomenal. We would find efficient ways to harness all our discoveries and
+eliminate the need for human exploitation.
+
+But my intuition also tells me that this is not going to happen in a lifetime.
+When looking at the different stages Marx draws over the course of history
+(Tribal / Primitive, City-state / Slavery, Empire / Feudal, Countries /
+Capitalism), at least those that actually happened, there is *always* human
+exploitation - always an upper class and a lower class, no matter what they are
+called. It seems that it is part of human nature to exploit one another, even
+when there is technically no need to do so to appropriately benefit from natural
+resources or to survive - better, live - together as human beings.
+
+Is capitalism the final stage of human civilization? No. Is communism (or
+socialism) the next logical step? Probably not. It is my belief that if Marx had
+lived through to see the two World Wars and the incredible apathy of the modern
+world, he would have recognized the idealism of "The Communist Manifesto" as
+naive and, honestly, Rousseau-esque. It's a shame his followers didn't apply
+the critical method themselves.
 
