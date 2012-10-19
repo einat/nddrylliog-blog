@@ -94,11 +94,11 @@ confusion, as demonstrated by the history of the notion of 'worldview'.
 When considering language a creative endeavor (which I think it is), one can
 conclude that language does not consist of a pure lie (in the sense defined in
 AQP). It remains true that the language in which one thinks, writes, and
-creates, will definitely impact it. Also, it is also the language that allows
-one to reason beyond simple concepts. I can't think of a single great thinker
-who only communicated using ideograms! Similarly, the 'lie' of Newtonian physics
-still allow to reason about the movement of solid objects up to a certain point.
-So, it is creative in itself, and definitely useful.
+creates, will definitely impact it. Also, it is the language that allows one to
+reason beyond simple concepts. I can't think of a single great thinker who only
+communicated using ideograms! Similarly, the 'lie' of Newtonian physics still
+allow to reason about the movement of solid objects up to a certain point.  So,
+it is creative in itself, and definitely useful.
 
 Hence, one shall not reject lies entirely, by fear of completely abandoning
 intelligent thought. Rather, one shall consider lies transient, rather than
