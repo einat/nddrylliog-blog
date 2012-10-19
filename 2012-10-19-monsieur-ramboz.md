@@ -10,7 +10,7 @@ nofooter: true
 
 Writing a follow-up to my last interesting blog post, [A Quiet Panic][aqp],
 is no easy task. It covered a lot of ground, and overall generated a good
-amount of feeedback.
+amount of feedback.
 
 [aqp]: http://amos.me/blog/2012/quiet-panic
 
