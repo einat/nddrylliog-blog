@@ -47,11 +47,9 @@ The copyright mafia intends, for example, to increase taxes on storage devices,
 explaining that one of their main use cases is to store copyrighted products.
 
 Make up your mind, dearies. Either leave it all open and tax mass media storage
-or fully embrace the hadopian(1) hell of your dreams, and then mass media
+or fully embrace the hadopian[1] hell of your dreams, and then mass media
 storage is considered *pure* - in which case, we don't want to hear about any
 taxes.
-
-(1) [HADOPI](http://en.wikipedia.org/wiki/HADOPI_law) is French law and anti-piracy organism.
 
 You know, it's funny because, because I have exactly *zero* illegally acquired
 works on my hard disks. So, I'm paying for a few tracks, and then I should pay
@@ -83,13 +81,15 @@ And, let's be honest, the same applies to Claude François.
 By the way, here's a bright idea I just had. Since we all agree that these
 debates have, obviously, one and the same objective - the greatness and support
 of Art itself, let's get started on a prodigious adventure: how about giving 
-basic income(2) to artists? Let's make it even more comfortable: a monthly,
+basic income[2] to artists? Let's make it even more comfortable: a monthly,
 unconditional 2000 EUR. Survival is ensured, money is not a worry anymore, all
 that's left is Art.
 
-(2) In French: revenu de base / revenu universel.
-
 You'll see. Music stores will see a revival... in quality.
+
+[1] - [HADOPI](http://en.wikipedia.org/wiki/HADOPI_law) is French law and anti-piracy organism.
+
+[2] - In French: revenu de base / revenu universel.
 
 **This is an approximate translation of this article: [Le vieux monde s’accroche,
 et croit qu’on lui doit tout](http://jcfrog.com/blog/le-vieux-monde-saccroche-et-croit-quon-lui-doit-tout/)**
