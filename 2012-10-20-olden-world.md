@@ -10,7 +10,7 @@ nofooter: true
 
 [jcfrog][jcfrog] is a French software engineer, web artist, and a respected voice in the
 popular uprise against copyright madness and abusive laws that have been
-discussed and/or passed in France in the past few years.
+discussed and/or voted in France in the past few years.
 
 [jcfrog]: https://twitter.com/jcfrog
 
