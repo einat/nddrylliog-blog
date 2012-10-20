@@ -12,6 +12,8 @@ nofooter: true
 popular uprise against copyright madness and abusive laws that have been
 discussed and/or passed in France in the past few years.
 
+[jcfrog]: https://twitter.com/jcfrog
+
 This is an approximate translation of his article: [Le vieux monde s’accroche,
 et croit qu’on lui doit tout](http://jcfrog.com/blog/le-vieux-monde-saccroche-et-croit-quon-lui-doit-tout/)
 
