@@ -1,6 +1,6 @@
 ---
 title: The old world just won't let go, thinks we are in its debt.
-date: 2012-10-19
+date: 2012-10-20
 tags: [ perspective ]
 layout: post
 nofooter: true
