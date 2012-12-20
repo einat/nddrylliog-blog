@@ -190,7 +190,7 @@ main: func (argc: Int, argv: CString*) {
 {% endhighlight %}
 
 But enough about the language. There's resources online to learn about it,
-and if that's not enough, just bother by e-mail and contribute to [the Wikibook
+and if that's not enough, just bother me by e-mail and contribute to [the Wikibook
 about it][wb] :)
 
 [wb]: http://en.wikibooks.org/wiki/Programming_with_ooc
@@ -250,8 +250,8 @@ return codes (1 on success, 0 on error) with error codes (0 means no error, nonz
 specific errors) and so thought my emitter didn't work for a long time.
 
 Something else that went wrong was the sound library I used. At first, I used a library
-of mine, abstracted over cubeb, a minimal, low-level sound library. The nice thing was
-cubeb is that it's so light, so it wouldn't add much weight to the fina lgame, which
+of mine, abstracted over cubeb, a minimal, low-level sound library. The nice thing about
+cubeb is that it's so light, so it wouldn't add much weight to the final game, which
 I found great. But for some reason when I recorded a bit of voice and tried to play
 it back as an ogg file, it error'd. I had no time to debug, so I switched to SDL_mixer
 instead. It was quick, but still time lost. Then I learned that "loops" must be 0 if
@@ -319,7 +319,7 @@ between fully dynamic objects, called [doll][doll].
 
 [doll]: https://github.com/nddrylliog/doll
 
-I started developing the initial version with that, but then quickly realizde it wasn't
+I started developing the initial version with that, but then quickly realized it wasn't
 going to cut it: defining 'prototypes' from within an ill-conceived DSL, listening
 for every possible type of message was going to be too long. And to have the full benefits
 of doll, I should have wrapped every other library I was using in the same style.
@@ -346,9 +346,9 @@ it! The fact that I had to spend so much time developing frameworks also played.
 
 ![](/img/legithief-editor.jpg)
 
-...but also, I made a level editor! Typically the think you usually don't have time to
+...but also, I made a level editor! Typically the thing you usually don't have time to
 do during the Jam, and definitely not during the Compo. Well, I did one, and a pretty
-sophisticated at that. Grid snapping, multi selection, multi layer editing loading/saving
+sophisticated one as well. Grid snapping, multi selection, multi layer editing loading/saving
 from/to YAML, object outlines... there was everything!
 
 In a way, the level editor was a success because Sylvain was able to use all
@@ -376,7 +376,7 @@ Of course, in a game where you just bash everything it doesn't make sense. But i
 a stealth game it makes sense to have these FPS-like controls, because you want to see
 what's happening around you. Another thing we didn't use enough is the wooden tile
 I implemented: it's present in the first intro level, and can be burned down with
-a molotov (which allows you to smash the dragon, by the way), but now in any of the
+a molotov (which allows you to smash the dragon, by the way), but not in any of the
 other levels because I didn't successfully communicate what burned in the game
 and what didn't!
 
