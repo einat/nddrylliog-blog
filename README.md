@@ -2,6 +2,10 @@ Those are words I type.
 
 ## 2012
 
+  * 2012-12-20 - [Ludum Dare #25 Post-mortem](https://github.com/nddrylliog/blog/blob/master/2012-12-20-ld25-postmortem.md)
+  * 2012-12-04 - [AOT vs JIT: Why don't we do both?](https://github.com/nddrylliog/blog/blob/master/2012-12-04-scissors.md)
+  * 2012-11-23 - [What They Don't Tell You You About Playing Games](https://github.com/nddrylliog/blog/blob/master/2012-11-23-games.md)
+  * 2012-10-30 - [Nostalgia](https://github.com/nddrylliog/blog/blob/master/2012-10-30-nostalgia.md)
   * 2012-10-20 - [The old world just won't let go, thinks we are in its debt.](https://github.com/nddrylliog/blog/blob/master/2012-10-20-olden-world.md)
   * 2012-10-19 - [In Memory of Monsieur Ramboz](https://github.com/nddrylliog/blog/blob/master/2012-10-19-monsieur-ramboz.md)
   * 2012-10-10 - [Re: Hello from Google](https://github.com/nddrylliog/blog/blob/master/2012-10-10-re-hello-from-google.md)
